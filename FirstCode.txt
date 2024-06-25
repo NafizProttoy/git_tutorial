@@ -1,2 +1,4 @@
 Hello World. This is the second sentence.
 The is the third sentence.
+take input from user.
+process the values.
